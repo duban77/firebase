@@ -3,12 +3,12 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBFKPaT4qKq9RIVh_qva3WASVY8mxJ8ZnQ",
-  authDomain: "pokeapi2-ea696.firebaseapp.com",
-  projectId: "pokeapi2-ea696",
-  storageBucket: "pokeapi2-ea696.firebasestorage.app",
-  messagingSenderId: "47412692126",
-  appId: "1:47412692126:web:c6b21b67d9a74d4da1a78f"
+  apiKey: "AIzaSyB-TE2EbdISNb4TldhyF3p5EMeN65a5rVI",
+  authDomain: "pokeapi2-d9daf.firebaseapp.com",
+  projectId: "pokeapi2-d9daf",
+  storageBucket: "pokeapi2-d9daf.firebasestorage.app",
+  messagingSenderId: "84802882161",
+  appId: "1:84802882161:web:80c91d5a2d102517bde9d0"
 };
 
 const app = initializeApp(firebaseConfig);
